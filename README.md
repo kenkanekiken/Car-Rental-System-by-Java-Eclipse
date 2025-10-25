@@ -1,6 +1,8 @@
 # Car-Rental-System-by-Java-Eclipse
 Java-based Car Rental Management System built using MVC architecture. Includes classes for User, Staff, Customer, Car, Booking, CarManager, and DataVector.
 
+Powerpoint slides showcase entire project
+
 🚗 Java Car Rental System (MVC)
 
 This project is a Car Rental Management System developed in Java, following the Model–View–Controller (MVC) design pattern.
