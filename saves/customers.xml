@@ -1,0 +1,22 @@
+<data.Customer-array>
+  <data.Customer>
+    <email>kenneth@gmail.com</email>
+    <username>kenneth</username>
+    <name>kenneth</name>
+    <password>kenneth123</password>
+    <licenseNo>T39949DDDA</licenseNo>
+    <address>26 Toa Payoh East #05-138</address>
+    <phoneNumber>87801129</phoneNumber>
+    <authentication>false</authentication>
+  </data.Customer>
+  <data.Customer>
+    <email>mengji@gmail.com</email>
+    <username>mengji</username>
+    <name>mengji</name>
+    <password>mengji123</password>
+    <licenseNo>T31922EQ31</licenseNo>
+    <address>658 Tampines Aveune 8 #12-395</address>
+    <phoneNumber>92838301</phoneNumber>
+    <authentication>false</authentication>
+  </data.Customer>
+</data.Customer-array>

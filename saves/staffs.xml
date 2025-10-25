@@ -1,0 +1,7 @@
+<data.Staff-array>
+  <data.Staff>
+    <username>staff</username>
+    <password>123</password>
+    <authentication>false</authentication>
+  </data.Staff>
+</data.Staff-array>
